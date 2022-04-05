@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gcc -Wall -g0 -O3 -o stats stats.c
